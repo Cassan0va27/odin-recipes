@@ -1,0 +1,1 @@
+This is a cool project for odin-project to demonstrate out HTML+CSS abilities.
